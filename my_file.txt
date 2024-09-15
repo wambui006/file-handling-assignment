@@ -1,0 +1,6 @@
+Hello, this is the first line.
+12345 is a number written on the second line.
+This is the third line of text.
+This is an appended fourth line.
+67890 is another number appended as a fifth line.
+This is the final sixth line added to the file.
